@@ -35,3 +35,7 @@ $ cut -d, -f 2 data.csv | tally
  * Add makefile targets to package it (`.rpm`, `.deb`, arch's `pkgbuild`).
  * Versioning (semver)
 
+## Related
+
+[There are other ways to do this (Stack overflow)](http://stackoverflow.com/questions/450799/shell-command-to-sum-integers-one-per-line)
+
